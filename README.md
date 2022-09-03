@@ -1,4 +1,4 @@
-<h1> Hydroponics Auto-Fertilizing System </h1>
+<h2 align='center'> Hydroponics Auto-Fertilizing System </h2>
 
 ### System Overview
 * The planter is built with VU75 plastic tube
